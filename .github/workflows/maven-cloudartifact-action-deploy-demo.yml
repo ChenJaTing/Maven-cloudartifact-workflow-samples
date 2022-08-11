@@ -26,3 +26,4 @@ jobs:
       - name: deploy artifact 
         run: |
           mvn deploy -e -X
+          
