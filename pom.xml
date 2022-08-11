@@ -13,7 +13,7 @@
     <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>com.huawei.devcloud</groupId>
+      <groupId>com.huawei.demo</groupId>
       <artifactId>demoapp</artifactId>
       <version>1.0.0</version>
   </dependency>
