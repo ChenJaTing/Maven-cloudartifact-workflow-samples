@@ -14,7 +14,7 @@
     </dependency>
     <dependency>
       <groupId>com.huawei.demo</groupId>
-      <artifactId>demoapp</artifactId>
+      <artifactId>javaMavenDemo</artifactId>
       <version>1.0.0</version>
   </dependency>
   </dependencies>
