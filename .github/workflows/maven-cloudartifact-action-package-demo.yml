@@ -2,7 +2,7 @@ name: Maven Cloudartifact Action Package Demo
 on:
   push:
     branches:
-       master
+       master1
 jobs:
   Install-CloudArtifact:
     runs-on: ubuntu-latest
